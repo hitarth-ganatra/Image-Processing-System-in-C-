@@ -20,9 +20,22 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="C:\Users\HITARTH GANATRA\Downloads\pexels-m-y-dogar-4556737.jpg" />
+    <Image Include="Resources\abc.jpg" />
+    <Image Include="Resources\cards.jpg" />
+    <Image Include="Resources\lambo.png" />
+    <Image Include="Resources\paper.jpg" />
+    <Image Include="Resources\shapes.png" />
+    <Image Include="Resources\test.png" />
+    <Image Include="Resources\test2.png" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMAGE PROCESSING SYSTEM.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\test_video.mp4" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

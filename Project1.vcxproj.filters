@@ -18,10 +18,37 @@
     <Image Include="C:\Users\HITARTH GANATRA\Downloads\pexels-m-y-dogar-4556737.jpg">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="Resources\abc.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\cards.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lambo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\paper.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\shapes.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\test.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\test2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMAGE PROCESSING SYSTEM.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\test_video.mp4" />
   </ItemGroup>
 </Project>
